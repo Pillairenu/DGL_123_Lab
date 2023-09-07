@@ -6,25 +6,31 @@
 3. Renu
 
 ## Individual Contribution
-1. Priya
-   ### Links
-   ### Summary
-3. Josmi
-   ### Links
-   ### Summary
-5. Renu
-   ### [Link](https://www.linkedin.com/pulse/php-best-practices-tips-samuel-john/)
-   ### Summary
+### 1. Priya
+   Links
+   -[15 Rules for Writing Quality Code](https://www.informit.com/articles/article.aspx?p=2223710)
+   -[20+ PHP Best Practices That You Must Follow](https://corephp.com/php-best-practices-that-you-must-follow/)
+   -[Writing Quality Code: Practicing “Make It Work, Make It Right, Make It Fast”](https://keyholesoftware.com/writing-quality-code-practicing-make-it-work-make-it-right-make-it-fast/)
+   
+   Summary
+   - Maintain coding standards
+   - Dont use short tags
+   - Use meaningful naming styles
+   - Follow formatting rules
+   - Decide on quotation type for strings
+   - Think about error reporting
+   - Use DRY approach
+   - Avoid putting phpinfo() in root directory
+     
+### 2. Josmi
+   Links
+   Summary
+### 3. Renu
+   Links
+   - [Link](https://www.linkedin.com/pulse/php-best-practices-tips-samuel-john/)
+   Summary
 
-1. **Consistent Coding Style:**
-   - Follow a consistent coding style for readability.
-   - Include indentation,proper naming,whitespace,comments etc.
 
-2. **Strict Data Types:**
-   - Explicitly specify the data types to clarify variable data types.
-
-
-## Checklist
 1.	Solves the problem
 ([Source](https://keyholesoftware.com/writing-quality-code-practicing-make-it-work-make-it-right-make-it-fast/))
 2.	Maintaining a Proper Documentation of your Code
