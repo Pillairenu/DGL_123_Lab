@@ -5,6 +5,22 @@
 2. Josmi
 3. Renu
 
+## Checklist
+1.	Solves the problem
+2.	Maintaining a Proper Documentation of your Code
+3.	Use Meaningful Variable and Function Names in your Code
+4.	Indentation, White Spacing and Line Length
+5.	Use either Single Quoted or Doubles Quoted Strings
+6.	Turn on Error Reporting for Development Purposes
+7.	Use the DRY Approach
+8.	Split Your Code into Short, Focused Units
+9.	Use Efficient Data Structures and Algorithms
+10.	Keep Your Code Portable
+11.	Put Everything Under Version Control
+12.	Test and Test and Test
+13.	Avoid using global variables
+
+    
 ## Individual Contribution
 ### 1. Priya
    Links
@@ -81,25 +97,14 @@
     - Keep security in mind to protect against common threats like SQL injection.
       
  9. Stay Updated:
-    - Continuously update your knowledge of PHP features, libraries, and best practices.
-
-    
+    - Continuously update your knowledge of PHP features, libraries, and best practices.   
 
 
-## Checklist
-1.	Solves the problem
-2.	Maintaining a Proper Documentation of your Code
-3.	Use Meaningful Variable and Function Names in your Code
-4.	Indentation, White Spacing and Line Length
-5.	Use either Single Quoted or Doubles Quoted Strings
-6.	Turn on Error Reporting for Development Purposes
-7.	Use the DRY Approach
-8.	Split Your Code into Short, Focused Units
-9.	Use Efficient Data Structures and Algorithms
-10.	Keep Your Code Portable
-11.	Put Everything Under Version Control
-12.	Test and Test and Test
-13.	Avoid using global variables
+## Self Evaluation
+
+4/4
+
+Initially, we started collaborating via email and later moved on to using GitHub. we did face some challenges while collaborating via git as we had conflicting updates and had to resolve issues multiple times before we created our final file. we therefore are quite satisfied with our efforts in learning and contributing in this collaborative environment and therefore we mark our efforts as 4 on a 4-point scale. 
 
 ## References
 - [Source1](https://keyholesoftware.com/writing-quality-code-practicing-make-it-work-make-it-right-make-it-fast/)
@@ -107,9 +112,3 @@
 - [Source3](https://www.informit.com/articles/article.aspx?p=2223710)
 - [Source4](https://www.encora.com/insights/best-practices-to-improve-code-quality)
 - [Source5](https://www.linkedin.com/pulse/php-best-practices-tips-samuel-john/)
-
-## Self Evaluation
-
-4/4
-
-Initially, we started collaborating via email and later moved on to using GitHub. we did face some challenges while collaborating via git as we had conflicting updates and had to resolve issues multiple times before we created our final file. we therefore are quite satisfied with our efforts in learning and contributing in this collaborative environment and therefore we mark our efforts as 4 on a 4-point scale. 
